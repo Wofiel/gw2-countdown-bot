@@ -1,0 +1,20 @@
+This won't be fancy.
+
+/Reqs-----------------------------------------------
+This project used the Watij WebSpec library found at
+Homepage: http://watij.com/
+Download: http://sourceforge.net/projects/watij/
+
+/---------------------------------------------------
+To run the .jar, put all the dependencies
+(WebSpec jars) in the gw2-cd-bot_lib folder and run
+using
+    gw2-cd-bot subreddit username password numhashes frequency futureDate
+
+subreddit   - Subreddit the bot has admin access to
+username    - The bot's username
+password    - and password
+numhashes   - In reddit markup, hashes dictate <h1> to <h5>
+                  Only 5 is implemented
+frequency   - How often the bot should update (in mins)
+futureDate  - When the bot is counting down to in epoch time (seconds)

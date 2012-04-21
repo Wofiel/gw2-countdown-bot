@@ -1,0 +1,9 @@
+Add WebSpec libraries in here.
+
+Homepage: http://watij.com/
+Download: http://sourceforge.net/projects/watij/
+
+and just dump all .jar files in here.
+
+webspec\lib\* (19)
+webspec\java\dist\webspec.jar
